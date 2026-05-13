@@ -1,5 +1,5 @@
 """
-Tatyana v2 — Residual MLP surrogate for TGLF linear stability
+Tatyana v2 — Residual MLP surrogate
 The mapping learned is
     (kymin, trpeps, shat, q0, omt_i, omt_e, omn) -> (gamma, omega)
 Mode identity (ITG/TEM) is not given explicitly; the network infers it
