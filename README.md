@@ -1,6 +1,6 @@
 # Tatyana V2
 
-> A neural network surrogate for TGLF linear stability — **0.44% median error on γ, 0.50% on ω.**
+> A neural network surrogate for TGLF-like linear stability — **0.44% median error on γ, 0.50% on ω.**
 
 Built as part of an ongoing surrogate modelling effort for tokamak turbulent transport. The idea is straightforward: train a small residual network to replicate what TGLF's linear solver does, but orders of magnitude faster 🚀🚀🚀
 
