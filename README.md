@@ -10,7 +10,7 @@ The results came out better than expected.
 
 ## Results
 
-Trained on multi-source TGLF linear scan data (including runs from NSCC Singapore), evaluated on a held-out test split stratified across all sources.
+Trained on GENE high-fidelity scan data (including runs from NSCC Singapore), evaluated on a held-out test split stratified across all sources.
 
 <p align="center">
   <img src="images/tatyana_v2_full_benchmark.png" width="92%">
